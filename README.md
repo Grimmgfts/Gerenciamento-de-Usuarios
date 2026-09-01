@@ -1,4 +1,3 @@
-# Gerenciamento-de-Usuarios
 # API Connect - Gerenciamento de Usuários
 
 ## 📌 Sobre a API
