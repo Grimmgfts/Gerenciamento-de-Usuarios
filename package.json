@@ -1,0 +1,12 @@
+{
+  "name": "api-connect",
+  "version": "1.0.0",
+  "description": "API REST de Gerenciamento de Usuarios",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
